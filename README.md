@@ -8,7 +8,9 @@ Exports a CSV of unique games ever streamed on a Twitch channel.
 ### Setup
 1. Create a Twitch Developer App
 2. Copy `.env.example` → `.env`
-3. Fill in credentials
+3. Fill in credentials from the Twitch Developer Console (after you register a new application for this)
+
+    https://dev.twitch.tv/console
 
 ### Install
 npm install
